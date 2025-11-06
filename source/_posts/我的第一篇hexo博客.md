@@ -3,7 +3,7 @@ title: 冒泡排序
 date: 2025-11-05 14:29:00
 tags:
 ---
-Ã°ÅÝÅÅÐò
+Hello world ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
 #include <stdio.h>
 void bubble_sort(int arr[], int len) {
    int i, j, temp;
